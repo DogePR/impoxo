@@ -1,1 +1,3 @@
-print("get rekt")
+{
+    "message": "Hello, World!"
+}
