@@ -1,2 +1,1 @@
-# impoxo
-asf
+print("Hi World")
